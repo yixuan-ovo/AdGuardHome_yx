@@ -1,3 +1,14 @@
+## 2024.12.24更新:
+- https://youtu.be/5-eSqP-iNnc?si=y_btQcxrX42Ko7nQ
+
+视频19:18秒,解释ad新版本安装中文包bug解决办法
+
+![alt text](./img/1.png)
+
+不支持 无需打开
+
+---
+
 # 系统-软件包下
 上传安装AdGuardHome时，若提示/etc/crontabs/root no such dirctory，输入mkdir -p /etc/crontabs即可
 

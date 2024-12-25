@@ -1,3 +1,6 @@
+秋风规则
+- https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
+
 广告终结者使用的拦截规则，基于ChinaList+EasyList修正维护
 - http://sub.adtchrome.com/adt-chinalist-easylist.txt
 

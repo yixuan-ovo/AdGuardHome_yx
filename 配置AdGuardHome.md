@@ -1,3 +1,13 @@
+# 旧版配置,已弃用!新版教程参考New_config
+
+---
+
+---
+
+---
+
+---
+
 ## 2024.12.24更新:
 - https://youtu.be/5-eSqP-iNnc?si=y_btQcxrX42Ko7nQ
 
